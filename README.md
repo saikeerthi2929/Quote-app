@@ -1,16 +1,32 @@
-# quote_app
+# 📜 Quote App  
+![Flutter](https://img.shields.io/badge/Flutter-3.32-blue?logo=flutter)  
+![License](https://img.shields.io/badge/License-MIT-green)  
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-orange)  
 
-A new Flutter project.
+> A beautiful Flutter app that delivers inspirational and motivational quotes to brighten your day 🌟.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
+✅ Random motivational quotes  
+✅ Refresh for new quotes instantly  
+✅ Share quotes with friends and family  
+✅ Minimal, clean, and responsive design  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots  
+*(Add your screenshots here)*  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home Screen | Share Quote |  
+|-------------|-------------|  
+| ![s1](screenshot1.png) | ![s2](screenshot2.png) |  
+
+---
+
+## 🛠 Tech Stack  
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **Platform:** Android / iOS  
+
+---
