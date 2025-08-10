@@ -15,12 +15,7 @@
 
 ---
 
-## 📱 Screenshots  
-*(Add your screenshots here)*  
 
-| Home Screen | Share Quote |  
-|-------------|-------------|  
-| ![s1](screenshot1.png) | ![s2](screenshot2.png) |  
 
 ---
 
@@ -30,3 +25,4 @@
 - **Platform:** Android / iOS  
 
 ---
+
